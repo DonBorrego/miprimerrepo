@@ -1,13 +1,18 @@
 table {
   background-color: orange;
-  height: 50px;
+  border-collapse: collapse;
+  height: 40px;
   width: 25%;
   font-family: sans-serif;
   color: white;
   text-align: center;
   float: left;
+}
 
-}
-th{
-  height:50px;
-}
+
+  th, td {
+      padding: 5px;
+      text-align: center;
+      font-family: sans-serif;
+      font-weight: normal;
+  }
