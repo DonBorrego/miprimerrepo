@@ -1,0 +1,25 @@
+.cuadrado{
+background-color: orange
+
+}
+
+div  {
+  height: 50px;
+  width: 25%;
+  font-family: sans-serif;
+  color:white;
+  text-align: center;
+}
+
+.espacio{
+  background-color: none;
+  height: 3px;
+
+}
+
+h3 {
+  float:left;
+  padding-left: 40px;
+
+
+}
